@@ -1,0 +1,604 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.0.aar/8fb51618dcfa0ecce27f6bc2d2b552f4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:17:1-31:12
+MERGED from [pub.devrel:easypermissions:0.1.5] /home/donatok/.gradle/caches/transforms-1/files-1.1/easypermissions-0.1.5.aar/187e85e7a71be356a8ec91be051ed513/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/0496e0c2f30b2ee0efb89e609bcd5467/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.6.2.aar/a38dd6ac269f6fd48b5fa9dddda231ae/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/66ff925f012d0f59255ba1c628f88d91/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/298ac6784f5be4ed22bc0ff3a24be976/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/3a52de54d90a203e3603ceca6ae03322/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/d10083b7262cae484a62d95404a92cb7/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/9e1e8cc4a105a33a8ce353699efdf055/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/820adcbb14f8a8b1e34cd974a3aa55ce/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/f082140cc37d679f10b248515bad7f31/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.6.2.aar/c5c086ede351b5a1d0978616c3ec8917/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/66d74271a0221fa276143dcdcb068afb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/0cf54e6ef60fea25065d46e126609c11/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.6.2.aar/c5f10792bf94d7c166c4354f06f75778/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/9617265b2b3fd4c27230f27399991449/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/97f682dbec0de67aa2c13765e4a8ca55/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-crash-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.6.2.aar/7fda118c1f064ff5ccc1219be751ba20/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/6925909552a470eda05cf06cdac139bd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/6c059d4a2516ffc5ce1620aa629fd0bc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/906c292e0443dc038955c707add7737d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/1a3106a2e8ce258ef94cafc61ae08ac7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/0485224a8ba013898e26bca438af628a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/964ca1a62958351274dad67209afcc1b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.2.aar/633becea9b38a8e2ee71dda8139920bc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/c20b049863dba3c6fd13607342db1ab3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/6a1b034101ea30fb57c98e3cdd185baf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/7c41648eaf41bd4103d27f8bf8193615/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/fe92f236e07a00a00769eb174faa612a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/5ea9a9fd351c7d801e69f4c2fbfc7d2b/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+	package
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:18:5-59
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:1-68:12
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:23:22-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:27:22-77
+application
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:29:5-66:19
+MERGED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:25:5-29:19
+MERGED from [pub.devrel:easypermissions:0.1.5] /home/donatok/.gradle/caches/transforms-1/files-1.1/easypermissions-0.1.5.aar/187e85e7a71be356a8ec91be051ed513/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.1.5] /home/donatok/.gradle/caches/transforms-1/files-1.1/easypermissions-0.1.5.aar/187e85e7a71be356a8ec91be051ed513/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/0496e0c2f30b2ee0efb89e609bcd5467/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/0496e0c2f30b2ee0efb89e609bcd5467/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/66ff925f012d0f59255ba1c628f88d91/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/66ff925f012d0f59255ba1c628f88d91/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/298ac6784f5be4ed22bc0ff3a24be976/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/298ac6784f5be4ed22bc0ff3a24be976/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/f082140cc37d679f10b248515bad7f31/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/f082140cc37d679f10b248515bad7f31/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/66d74271a0221fa276143dcdcb068afb/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/66d74271a0221fa276143dcdcb068afb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/0cf54e6ef60fea25065d46e126609c11/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/0cf54e6ef60fea25065d46e126609c11/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.6.2.aar/c5f10792bf94d7c166c4354f06f75778/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.6.2.aar/c5f10792bf94d7c166c4354f06f75778/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/9617265b2b3fd4c27230f27399991449/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/9617265b2b3fd4c27230f27399991449/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/97f682dbec0de67aa2c13765e4a8ca55/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/97f682dbec0de67aa2c13765e4a8ca55/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.6.2.aar/7fda118c1f064ff5ccc1219be751ba20/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.6.2.aar/7fda118c1f064ff5ccc1219be751ba20/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/6925909552a470eda05cf06cdac139bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/6925909552a470eda05cf06cdac139bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/6c059d4a2516ffc5ce1620aa629fd0bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/6c059d4a2516ffc5ce1620aa629fd0bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/906c292e0443dc038955c707add7737d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/906c292e0443dc038955c707add7737d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/1a3106a2e8ce258ef94cafc61ae08ac7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/1a3106a2e8ce258ef94cafc61ae08ac7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/0485224a8ba013898e26bca438af628a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/0485224a8ba013898e26bca438af628a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/964ca1a62958351274dad67209afcc1b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/964ca1a62958351274dad67209afcc1b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.2.aar/633becea9b38a8e2ee71dda8139920bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.2.aar/633becea9b38a8e2ee71dda8139920bc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/c20b049863dba3c6fd13607342db1ab3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/c20b049863dba3c6fd13607342db1ab3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/6a1b034101ea30fb57c98e3cdd185baf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/6a1b034101ea30fb57c98e3cdd185baf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/7c41648eaf41bd4103d27f8bf8193615/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/7c41648eaf41bd4103d27f8bf8193615/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/fe92f236e07a00a00769eb174faa612a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/fe92f236e07a00a00769eb174faa612a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/5ea9a9fd351c7d801e69f4c2fbfc7d2b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/5ea9a9fd351c7d801e69f4c2fbfc7d2b/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:33:9-35
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:31:9-43
+	android:allowBackup
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:34:9-40
+activity#com.google.firebase.samples.apps.friendlypix.ProfileActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:36:13-44
+activity#com.google.firebase.samples.apps.friendlypix.FeedsActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:39:9-42:59
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:41:13-45
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:40:13-42
+activity#com.google.firebase.samples.apps.friendlypix.WelcomeActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:44:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:50:27-74
+activity#com.google.firebase.samples.apps.friendlypix.CommentsActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:53:9-56:59
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:55:13-60
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:54:13-45
+activity#com.google.firebase.samples.apps.friendlypix.NewPostActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:57:9-60:59
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:59:13-60
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:58:13-44
+activity#com.google.firebase.samples.apps.friendlypix.UserDetailActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:61:9-64:59
+	android:label
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:63:13-63
+	android:theme
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:62:13-47
+activity#com.google.firebase.samples.apps.friendlypix.BaseActivity
+ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:65:9-59
+	android:name
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml:65:19-47
+uses-sdk
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.0.aar/8fb51618dcfa0ecce27f6bc2d2b552f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.0.aar/8fb51618dcfa0ecce27f6bc2d2b552f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:21:5-23:62
+MERGED from [pub.devrel:easypermissions:0.1.5] /home/donatok/.gradle/caches/transforms-1/files-1.1/easypermissions-0.1.5.aar/187e85e7a71be356a8ec91be051ed513/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.1.5] /home/donatok/.gradle/caches/transforms-1/files-1.1/easypermissions-0.1.5.aar/187e85e7a71be356a8ec91be051ed513/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/0496e0c2f30b2ee0efb89e609bcd5467/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/0496e0c2f30b2ee0efb89e609bcd5467/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.6.2.aar/a38dd6ac269f6fd48b5fa9dddda231ae/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.6.2.aar/a38dd6ac269f6fd48b5fa9dddda231ae/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/66ff925f012d0f59255ba1c628f88d91/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.2.aar/66ff925f012d0f59255ba1c628f88d91/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/298ac6784f5be4ed22bc0ff3a24be976/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.2.aar/298ac6784f5be4ed22bc0ff3a24be976/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/3a52de54d90a203e3603ceca6ae03322/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.2.aar/3a52de54d90a203e3603ceca6ae03322/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/d10083b7262cae484a62d95404a92cb7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.2.aar/d10083b7262cae484a62d95404a92cb7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/9e1e8cc4a105a33a8ce353699efdf055/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.2.aar/9e1e8cc4a105a33a8ce353699efdf055/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/820adcbb14f8a8b1e34cd974a3aa55ce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.2.aar/820adcbb14f8a8b1e34cd974a3aa55ce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/f082140cc37d679f10b248515bad7f31/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/f082140cc37d679f10b248515bad7f31/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.6.2.aar/c5c086ede351b5a1d0978616c3ec8917/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.6.2.aar/c5c086ede351b5a1d0978616c3ec8917/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/66d74271a0221fa276143dcdcb068afb/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/circleimageview-2.0.0.aar/66d74271a0221fa276143dcdcb068afb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/0cf54e6ef60fea25065d46e126609c11/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/0cf54e6ef60fea25065d46e126609c11/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.6.2.aar/c5f10792bf94d7c166c4354f06f75778/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.6.2.aar/c5f10792bf94d7c166c4354f06f75778/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/9617265b2b3fd4c27230f27399991449/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.2.aar/9617265b2b3fd4c27230f27399991449/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/97f682dbec0de67aa2c13765e4a8ca55/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.2.aar/97f682dbec0de67aa2c13765e4a8ca55/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.6.2.aar/7fda118c1f064ff5ccc1219be751ba20/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.6.2.aar/7fda118c1f064ff5ccc1219be751ba20/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/6925909552a470eda05cf06cdac139bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.2.aar/6925909552a470eda05cf06cdac139bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/6c059d4a2516ffc5ce1620aa629fd0bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.2.aar/6c059d4a2516ffc5ce1620aa629fd0bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/906c292e0443dc038955c707add7737d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.2.aar/906c292e0443dc038955c707add7737d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/1a3106a2e8ce258ef94cafc61ae08ac7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/1a3106a2e8ce258ef94cafc61ae08ac7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/0485224a8ba013898e26bca438af628a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/0485224a8ba013898e26bca438af628a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/964ca1a62958351274dad67209afcc1b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/964ca1a62958351274dad67209afcc1b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.2.aar/633becea9b38a8e2ee71dda8139920bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.2.aar/633becea9b38a8e2ee71dda8139920bc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/c20b049863dba3c6fd13607342db1ab3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.2.aar/c20b049863dba3c6fd13607342db1ab3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/6a1b034101ea30fb57c98e3cdd185baf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.2.aar/6a1b034101ea30fb57c98e3cdd185baf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/7c41648eaf41bd4103d27f8bf8193615/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.2.aar/7c41648eaf41bd4103d27f8bf8193615/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/fe92f236e07a00a00769eb174faa612a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.2.aar/fe92f236e07a00a00769eb174faa612a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/5ea9a9fd351c7d801e69f4c2fbfc7d2b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.2.aar/5ea9a9fd351c7d801e69f4c2fbfc7d2b/AndroidManifest.xml:4:5-43
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/donatok/Documents/601programs/friendlypix-android-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:0.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.0.aar/8fb51618dcfa0ecce27f6bc2d2b552f4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.6.2.aar/25c0e62ab8ac3b000c5812f85204c37d/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-0.4.0.aar/8fb51618dcfa0ecce27f6bc2d2b552f4/AndroidManifest.xml:11:22-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9bd50d7d07f3f37811152380d280960c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/e4dbe714c8b209b7990ef30aa53e3106/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/3bea6a1e0a634ba8b33f85f04e074a19/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/47a4949773b555a0ba4663c97f3ff069/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/percent-25.4.0.aar/3fe9beb8f2c3cfd819690d3bdb2b0aeb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/1e3723dfd485ffc942cb11788d286ac5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3c1e874a38d3a5ce9b00a63847fbe813/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/24db42f4de6455caa89be9d9da264b4b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ac59ae45d04ccbc1f0299458f1a47bd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/020192e2df5fdc1c71795e9920f943a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4ef41e61cd4216efbfdf3507a4e90531/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/28898476e0c0dcd5eda2726a37e73a9b/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /home/donatok/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/baffccb60e4e5149d8484e3b48175b82/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.2.aar/30f08de54d80485e1c9a83fec20005db/AndroidManifest.xml:24:18-63
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/af7df573f6c7584358aab8cd84eb2c7d/AndroidManifest.xml:25:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.2.aar/f69ce3ccdd4b1cd3bf635ddb8312f3f3/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.2.aar/d5e9f3a6862746505f30662dff235bc7/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:17-71
+permission#com.google.firebase.samples.apps.friendlypixtest.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:27:22-76
+uses-permission#com.google.firebase.samples.apps.friendlypixtest.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.firebase.samples.apps.friendlypixtest
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:34:27-58
+category#com.google.firebase.samples.apps.friendlypixtest
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.2.aar/5ef8b6e439219a63ef9671716757ce99/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.2.aar/eba99e0cc6b91c1dd5e7029a62392a6d/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/7dbe02dd12dea0c0d1b06f3c29ec9e17/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /home/donatok/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/aa69532d03c8657d18495f22274cfa5f/AndroidManifest.xml:20:20-65

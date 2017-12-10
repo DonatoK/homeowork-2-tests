@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/donatok/Documents/601programs/friendlypix-android-master/app/build/intermediates/incremental/mergeDev2DebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/donatok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/fe80a2d2d26f88e46bd5175b58366da8/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

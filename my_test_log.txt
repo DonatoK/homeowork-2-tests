@@ -1,0 +1,43 @@
+  bash arg: -e
+  bash arg: --ingore-crashes
+  bash arg: -p
+  bash arg: friendlypix-android-master.iml
+  bash arg: -v
+  bash arg: 1000
+args: [-e, --ingore-crashes, -p, friendlypix-android-master.iml, -v, 1000]
+ arg: "-e"
+ arg: "--ingore-crashes"
+ arg: "-p"
+ arg: "friendlypix-android-master.iml"
+ arg: "-v"
+ arg: "1000"
+** Error: Unknown option: -e
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitor-native-crashes] [--ignore-native-crashes]
+              [--kill-process-after-error] [--hprof]
+              [--match-description TEXT]
+              [--pct-touch PERCENT] [--pct-motion PERCENT]
+              [--pct-trackball PERCENT] [--pct-syskeys PERCENT]
+              [--pct-nav PERCENT] [--pct-majornav PERCENT]
+              [--pct-appswitch PERCENT] [--pct-flip PERCENT]
+              [--pct-anyevent PERCENT] [--pct-pinchzoom PERCENT]
+              [--pct-permission PERCENT]
+              [--pkg-blacklist-file PACKAGE_BLACKLIST_FILE]
+              [--pkg-whitelist-file PACKAGE_WHITELIST_FILE]
+              [--wait-dbg] [--dbg-no-events]
+              [--setup scriptfile] [-f scriptfile [-f scriptfile] ...]
+              [--port port]
+              [-s SEED] [-v [-v] ...]
+              [--throttle MILLISEC] [--randomize-throttle]
+              [--profile-wait MILLISEC]
+              [--device-sleep-time MILLISEC]
+              [--randomize-script]
+              [--script-log]
+              [--bugreport]
+              [--periodic-bugreport]
+              [--permission-target-system]
+              COUNT
+

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "159009358979",
+    "firebase_url": "https://friendlypix-android-mast-7d7aa.firebaseio.com",
+    "project_id": "friendlypix-android-mast-7d7aa",
+    "storage_bucket": "friendlypix-android-mast-7d7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159009358979:android:711751fc68351673",
+        "android_client_info": {
+          "package_name": "pub.devrel.friendlypix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159009358979-6acra5a4t65tq9hrsi96ghab3p07bvht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pub.devrel.friendlypix",
+            "certificate_hash": "03fedaef427ab46381a9c88acbd727af8c4f4d62"
+          }
+        },
+        {
+          "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVggjCiSvcycsltOYRSiEBs4_QBeQ80lI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159009358979:android:58607e5bb914b2f6",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.friendlypix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159009358979-qjuus1nbl8o9kel9aq9jhf5h9h3tt11q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.samples.apps.friendlypix",
+            "certificate_hash": "03fedaef427ab46381a9c88acbd727af8c4f4d62"
+          }
+        },
+        {
+          "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVggjCiSvcycsltOYRSiEBs4_QBeQ80lI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159009358979:android:f60113ab11ffb91f",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.friendlypixtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159009358979-ihkf7lh843agqad6vv8kvefr6ceeg641.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.samples.apps.friendlypixtest",
+            "certificate_hash": "03fedaef427ab46381a9c88acbd727af8c4f4d62"
+          }
+        },
+        {
+          "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVggjCiSvcycsltOYRSiEBs4_QBeQ80lI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159009358979-5i765g6lu83kgg0f7hmnaa16tsg0jl4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

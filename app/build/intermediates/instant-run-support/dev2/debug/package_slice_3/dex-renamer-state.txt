@@ -1,0 +1,4 @@
+#Fri Dec 08 16:16:51 EST 2017
+base.0=/home/donatok/Documents/601programs/friendlypix-android-master/app/build/intermediates/transforms/dexMerger/dev2/debug/3
+renamed.0=classes.dex
+file.0=/home/donatok/Documents/601programs/friendlypix-android-master/app/build/intermediates/transforms/dexMerger/dev2/debug/3/classes.dex
